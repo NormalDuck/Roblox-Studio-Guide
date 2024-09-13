@@ -1,0 +1,8 @@
+{
+  "label": "Basic Lua",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn the basic functionality of standalone Lua."
+  }
+}
