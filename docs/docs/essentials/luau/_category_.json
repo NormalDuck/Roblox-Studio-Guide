@@ -3,6 +3,6 @@
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Learn the basic functionality of standalone Lua."
+    "description": "Learn the Roblox's version of Lua, Luau. The typed version of Lua"
   }
 }

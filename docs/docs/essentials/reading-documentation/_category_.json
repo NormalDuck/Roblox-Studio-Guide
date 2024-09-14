@@ -1,0 +1,8 @@
+{
+  "label": "Reading documentation",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn the basic techinques of skimming documentation."
+  }
+}
